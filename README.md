@@ -1,16 +1,11 @@
-# React + Vite
+Hi there, I’m Ziyoungou 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I’m an engineer passionate about computational modeling, heat transfer, and web development.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔧 Core skills: Python, Siemens UG NX for CAD modeling, and CFD simulation using ANSYS Fluent.
+🧠 Interests: Thermal management for electronics, algorithm design, and building data‑driven web applications.
+📈 Learning: Always exploring new technologies in AI, simulation, and scientific computing.
+🚀 Featured projects
+🧊 Cold‑plate liquid‑cooling: Designed and optimized a micro‑channel cold plate for high‑heat‑flux CPUs. Implemented CFD simulations in ANSYS Fluent and post‑processed data in Python to evaluate heat transfer and pressure drop. My scripts automate parameter sweeps and generate performance reports.
+🧮 Algorithm development: Developed optimization algorithms in Python (NumPy, SciPy) to tune geometric parameters and predict the performance of cold plates. Deployed these algorithms behind a simple web API.
+🌐 Web platform: Built a responsive web portal to visualise simulation results and interact with optimisation tools. Implemented the front‑end with HTML/CSS/JavaScript and the back‑end using Flask/Django.
